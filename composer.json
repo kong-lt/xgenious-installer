@@ -1,5 +1,5 @@
 {
-    "name": "xgenious/installer",
+    "name": "kong-lt/installer",
     "description": "Laravel script installer package",
     "type": "library",
     "license": "BSD-2-Clause",
